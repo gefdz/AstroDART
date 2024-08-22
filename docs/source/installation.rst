@@ -31,7 +31,7 @@ Move to the cloned directory.
 
 Environment 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-I strongly recommend you create a dedicated environment to avoid conflicts with dependencies with other python packages. There is a yml file inside the AstroDART directory, you can use it to create the environment as follows, activate the environment. The whole process may take some minutes.
+I strongly recommend you create a dedicated environment to avoid conflicts with dependencies with other python packages. There is a yml file inside the AstroDART directory, you can use it to create the environment as follows. Then activate the environment. The whole process may take some minutes.
 
 .. code-block:: bash
 
