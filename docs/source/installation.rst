@@ -22,6 +22,11 @@ You can download the github repository to this directory with.
 
 	git clone https://github.com/gefdz/AstroDART
 
+Move to the cloned directory.
+
+.. code-block:: bash
+
+	cd AstroDART
 
 
 Environment 
