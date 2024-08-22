@@ -17,4 +17,4 @@ Documentation can be accessed here: https://astrodart.readthedocs.io/en/latest/.
 Instructions for installation can be found here: https://astrodart.readthedocs.io/en/latest/installation.html.
 
 ## Usage
-There are step by step guides for [photometry](https://astrodart.readthedocs.io/en/latest/photometry.html) and [astrophotography](https://astrodart.readthedocs.io/en/latest/astrophotography.html) 
+There are step by step guides for [photometry](https://astrodart.readthedocs.io/en/latest/photometry.html) and [astrophotography](https://astrodart.readthedocs.io/en/latest/astrophotography.html).
