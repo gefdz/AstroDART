@@ -7,7 +7,7 @@ First stage: Image reduction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-This pipeline is intended for two main uses, astrophotography data reduction (including image combination and alignment) and photometry. This notebook in particular is a demo of the latter. This pipeline is basically a wrapper of astropy functions and in particular those of `ccdproc <https://ccdproc.readthedocs.io/en/latest/>`_. We being by importing the necessary packages
+This pipeline is intended for two main uses, astrophotography data reduction (including image combination and alignment) and photometry. This notebook in particular is a demo of the latter. This pipeline is basically a wrapper of astropy functions and in particular those of `ccdproc <https://ccdproc.readthedocs.io/en/latest/>`_. We begin by importing the necessary packages
 
 .. code-block:: python
 
