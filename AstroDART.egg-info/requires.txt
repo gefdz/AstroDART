@@ -1,0 +1,6 @@
+astropy
+ccdproc
+astroquery
+photutils
+matplotlib
+tqdm

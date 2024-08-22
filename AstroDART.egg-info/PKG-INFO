@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: AstroDART
+Version: 0.1
+Summary: Astronomical image reduction.
+Author: Gareb Enoc Fernández Rodríguez
+Author-email: gareb.fernandez@gmai.com
+Keywords: python,reduction,photometry,astrophotography,astronomy
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: astropy
+Requires-Dist: ccdproc
+Requires-Dist: astroquery
+Requires-Dist: photutils
+Requires-Dist: matplotlib
+Requires-Dist: tqdm
+
+A package to reduce astronomical images, intended for photometry and astrophotography uses.
