@@ -1,5 +1,5 @@
 <p align="center">
-  <img width = "256" src="./logo/AstroDART.png"/>
+  <img width = "256" src="./logo/logo.jpg"/>
 </p>
 
 **Astro**nomical **DA**ta **R**eduction **T**ools
